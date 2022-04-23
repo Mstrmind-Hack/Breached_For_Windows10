@@ -1,7 +1,8 @@
 # Breached-For-Windows10
-**This tool will help you Discover if your E-mail Address or Username was involved in a data breach**
 
-**The tool will also show you the amount of breaches (if any), the most resent breach (in terms of days/weeks/years), and some of the websites that your E-mail/Username was breached (other individuals might have the same username as you on a different site you are not a part off)**
+**This tool will help you Discover if your E-mail Address or Username was involved in a data breach.**
+
+**The tool will also show you the number of breaches (if any), the most recent breach (in terms of days/weeks/years), and some of the websites on which your E-mail/Username was breached (Keep in mind, other individuals might have the same username as you on sites you're not associated with).**
 
 **NOTE: Linux users, I have a linux version of this tool in my repositories!**
 
