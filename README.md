@@ -15,7 +15,7 @@ _**NOTE: If you're a begginner who cares about your online security and want to 
 
         >>git clone https://github.com/Mstrmind-Hack/Breached_For_Windows10.git
        
-**Step 2)** open CMD and change directories to the Email_Recon_Windows Directory.
+**Step 2)** open CMD and change directories to the Breached Directory.
         
         >>cd Breached
 
