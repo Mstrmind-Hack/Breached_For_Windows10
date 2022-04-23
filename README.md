@@ -13,7 +13,7 @@ _**NOTE: If you're a begginner who cares about your online security and want to 
 
 **Step 1)** Clone or download the zipped folder of the tool to your windows machine.
 
-        >>git clone https://github.com/Mstrmind-Hack/Breached-For-Windows10.git
+        >>git clone https://github.com/Mstrmind-Hack/Breached_For_Windows10.git
        
 **Step 2)** open CMD and change directories to the Email_Recon_Windows Directory.
         
