@@ -5,9 +5,11 @@
 
 **NOTE: Linux users, I have a linux version of this tool in my repositories!**
 
-![wind1](https://user-images.githubusercontent.com/104036615/164362790-38583176-a45d-45dc-a830-7bebd7ce736e.png)
+
 
 _**NOTE: If you're a begginner who cares about your online security and want to run this tool, you will have to install Python with Pip on your Windows machine.**_ https://youtu.be/dYfKJMPNMDw
+
+![sss](https://user-images.githubusercontent.com/104036615/164875024-b8c6928f-8019-47c8-b25b-fbeb32a63b4b.png)
 
 **Step 1)** Clone or download the zipped folder of the tool to your windows machine.
 
@@ -15,28 +17,28 @@ _**NOTE: If you're a begginner who cares about your online security and want to 
        
 **Step 2)** open CMD and change directories to the Email_Recon_Windows Directory.
         
-        >>cd Email_Recon_Windows
+        >>cd Breached
 
 **Step 3)** Install the tool requirements. 
 
         >>pip install -r requirements.txt
 
-**Step 4)** Visit: https://leak-lookup.com/account/register and create a free **username and password** to access your **API KEY**.
+**Step 4)** Visit: https://leak-lookup.com/account/register and create a free **username and password** to access your **FREE API KEY**.
 
 **Step 5)** Log-in to leak-lookup.com and optain your free API key. (Only 10 Searches allowed per day! Read their documentation!)
 
-**Step 6)** Open E_Recon_Tool.py in a text editor and insert your API key in _**line 25**_ Between the quotation marks _**""**_ and save the file (See image below).
+**Step 6)** Open Breached_Tool.py in a text editor and insert your API key in _**line 27**_ Between the quotation marks _**""**_ and save the file (See image below).
 
-![Screenshot (27)](https://user-images.githubusercontent.com/104036615/164566136-0ecafea2-a5cc-4503-ae0a-188237ce3211.jpg)
+![KEY](https://user-images.githubusercontent.com/104036615/164873305-eccb8663-bfab-49b4-ae9d-552def09e8a7.png)
 
 **Step 7)** Run the tool with: 
 
-         >>python3 E_Recon_Tool.py
+         >>python3 Breached_Tool.py
          OR
-         >>python E_Recon_Tool.py
+         >>python Breached_Tool.py
 
 **Step 8)** Follow the prompts! It's that easy!
 
-![wind](https://user-images.githubusercontent.com/104036615/164362496-74d8dbaf-d883-4f02-b4ce-4a73412c2792.png)
+![win111](https://user-images.githubusercontent.com/104036615/164874953-943ad5fd-1c0a-482b-8f85-819d94f4b842.png)
 
-![wind3](https://user-images.githubusercontent.com/104036615/164363444-8e21c851-917a-419c-86c5-d33b27bf0423.png)
+![3](https://user-images.githubusercontent.com/104036615/164876770-323b0724-af07-467b-b465-651a04344364.png)
