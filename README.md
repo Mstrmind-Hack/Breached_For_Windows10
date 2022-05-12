@@ -8,7 +8,7 @@
 
 
 
-_**NOTE: If you're a begginner who cares about your online security and want to run this tool, you will have to install Python with Pip on your Windows machine.**_ https://youtu.be/dYfKJMPNMDw
+_**NOTE: If you're a begginner who cares about your online security and want to run this tool, you will have to install Python with Pip on your Windows machine.**_  Amit Thinks, Does a great job at guiding you through the steps needed during the installation process https://youtu.be/dYfKJMPNMDw
 
 ![sss](https://user-images.githubusercontent.com/104036615/164875024-b8c6928f-8019-47c8-b25b-fbeb32a63b4b.png)
 
