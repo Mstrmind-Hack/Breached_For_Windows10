@@ -1,5 +1,9 @@
 # Breached-For-Windows10
 
+![ezgif com-gif-maker(3)](https://user-images.githubusercontent.com/104036615/169438252-24950392-0597-405b-9e70-70076e8b5451.gif)
+
+**UPDATED VERSION 2!**
+
 **This tool will help you Discover if your E-mail Address or Username was involved in a data breach.**
 
 **The tool will also show you the number of breaches (if any), the most recent breach (in terms of days/weeks/years), and some of the websites on which your E-mail/Username was breached (Keep in mind, other individuals might have the same username as you on sites you're not associated with).**
@@ -10,9 +14,9 @@
 
 _**NOTE: If you're a begginner who cares about your online security and want to run this tool, you will have to install Python with Pip on your Windows machine.**_  Amit Thinks, Does a great job at guiding you through the steps needed during the installation process https://youtu.be/dYfKJMPNMDw
 
-![sss](https://user-images.githubusercontent.com/104036615/164875024-b8c6928f-8019-47c8-b25b-fbeb32a63b4b.png)
 
-**VIDEO DEMO OF THE TOOL** https://youtu.be/m1qaRTNf-7Q
+
+**VIDEO DEMO OF VERSION 1 OF THE TOOL** https://youtu.be/m1qaRTNf-7Q
 
 **Step 1)** Clone or download the zipped folder of the tool to your windows machine.
 
@@ -42,6 +46,7 @@ _**NOTE: If you're a begginner who cares about your online security and want to 
 
 **Step 8)** Follow the prompts! It's that easy!
 
-![win111](https://user-images.githubusercontent.com/104036615/164874953-943ad5fd-1c0a-482b-8f85-819d94f4b842.png)
-
-![3](https://user-images.githubusercontent.com/104036615/164876770-323b0724-af07-467b-b465-651a04344364.png)
+| API | Key Needed?|
+|-----|------|
+|1) portal.spycloud.com|No|
+|2) leak-lookup.com| Yes|
